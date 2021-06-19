@@ -1,46 +1,46 @@
 {
-    "EnableBook": 1,
-    "EnableStatusTab": 1,
-    "EnablePartyTab": 1,
-    "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
-    "EnableTerritoryTab": 1,
-    "ShowServerSettings": 1,
-    "ServerInfo": {
-        "ServerButtons": [],
-        "ServerSections": [
-            {
-                "HasHeading": 1,
-                "HeadText": "WELCOME",
-                "BodyText": "<p>...to [ac] DayZ</p>"
-            }
-        ],
-        "ServerName": "[ac] DayZ"
-    },
-    "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
-    "RuleCategories": [
-        {
-            "RuleButtons": [
-                 {
-                    "RuleSection": {
-                        "Rules": [
-                            {
-                                "DetailContent": "Any kind of cheats or third-party programms are not allowed and will be treated accordingly."
-                            }
-                        ],
-                        "DetailLabel": "Cheating"
-                    },
-                    "DetailLabel": "Cheating",
-                    "DetailContent": "Rule section 2 description",
-                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\skull_1_64x64.edds"
-                }
-            ],
-            "DisplayName": "Hacking and Cheating"
-        }
+  "EnableBook": 1,
+  "EnableStatusTab": 1,
+  "EnablePartyTab": 1,
+  "EnableServerInfoTab": 1,
+  "EnableServerRulesTab": 1,
+  "EnableTerritoryTab": 1,
+  "ShowServerSettings": 1,
+  "ServerInfo": {
+    "ServerButtons": [],
+    "ServerSections": [
+      {
+        "HasHeading": 1,
+        "HeadText": "WELCOME",
+        "BodyText": "<p>...to [ac] DayZ</p>"
+      }
     ],
-    "RuleParagraphColor": -13330213,
-    "RuleButtonColor": -13330213,
-    "ShowTooltipOnRuleButton": 0,
-    "ItemRequired": "",
-    "ItemRequiredLocation": 0
+    "ServerName": "[ac] DayZ"
+  },
+  "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
+  "RuleCategories": [
+    {
+      "RuleButtons": [
+        {
+          "RuleSection": {
+            "Rules": [
+              {
+                "DetailContent": "Any kind of cheats or third-party programms are not allowed and will be treated accordingly."
+              }
+            ],
+            "DetailLabel": "Cheating"
+          },
+          "DetailLabel": "Cheating",
+          "DetailContent": "Rule section 2 description",
+          "Icon": "DayZExpansion\\GUI\\icons\\hud\\skull_1_64x64.edds"
+        }
+      ],
+      "DisplayName": "Hacking and Cheating"
+    }
+  ],
+  "RuleParagraphColor": -13330213,
+  "RuleButtonColor": -13330213,
+  "ShowTooltipOnRuleButton": 0,
+  "ItemRequired": "",
+  "ItemRequiredLocation": 0
 }
