@@ -44,6 +44,8 @@
     <ce folder="mods_ce">
         <file name="CarCover_types.xml" type="types"/>
 
+        <file name="dayz_dog_types.xml" type="types"/>
+
         <file name="rag_landrover_110_types.xml" type="types"/>
         <file name="rag_landrover_110_cfgspawnabletypes.xml" type="spawnabletypes"/>
         <file name="rag_landrover_110_events.xml" type="events"/>
