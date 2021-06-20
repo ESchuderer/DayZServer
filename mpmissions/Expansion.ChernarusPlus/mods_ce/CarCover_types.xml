@@ -15,7 +15,7 @@
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
-	<type name="CamonetCivil">
+    <type name="CamonetCivil">
         <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -27,10 +27,10 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
 
-<!-- CarCover Covers persistency -->
+    <!-- CarCover Covers persistency -->
 
     <type name="Lada4x4_Cover">
         <nominal>0</nominal>
@@ -43,7 +43,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Volga_Cover">
+    <type name="Volga_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -120,7 +120,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickup_Cover">
+    <type name="LadaPickup_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -131,7 +131,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickupFire_Cover">
+    <type name="LadaPickupFire_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -142,7 +142,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="BlackoutsCorvette_Cover">
+    <type name="BlackoutsCorvette_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -153,7 +153,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Kamaz_Cover">
+    <type name="Kamaz_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -164,7 +164,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageBTRHT_Cover">
+    <type name="SavageBTRHT_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -175,7 +175,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageLiftedTahoe_Cover">
+    <type name="SavageLiftedTahoe_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -186,7 +186,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Skoda1203_Cover">
+    <type name="Skoda1203_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -197,7 +197,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="HMVVEEErag_Cover">
+    <type name="HMVVEEErag_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -208,7 +208,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="UAZ469kirman_Cover">
+    <type name="UAZ469kirman_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -219,7 +219,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="MercedesG65_Cover">
+    <type name="MercedesG65_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -339,8 +339,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="VeeDub_Cover">
+    </type>
+    <type name="VeeDub_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -350,8 +350,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>	
-	<type name="ZeroyJeepWillys_Cover">
+    </type>
+    <type name="ZeroyJeepWillys_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -361,8 +361,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="SkyJeep_Cover">
+    </type>
+    <type name="SkyJeep_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -372,8 +372,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Kopter_Cover">
+    </type>
+    <type name="Kopter_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -383,8 +383,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Bruiser_Cover">
+    </type>
+    <type name="Bruiser_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -394,8 +394,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="SavageSherpa_Cover">
+    </type>
+    <type name="SavageSherpa_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -405,8 +405,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkZil131_Cover">
+    </type>
+    <type name="CrSkZil131_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -416,8 +416,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="TrolleyEKart_Cover">
+    </type>
+    <type name="TrolleyEKart_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -427,8 +427,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagMTVR_Cover">
+    </type>
+    <type name="RagMTVR_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -438,8 +438,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="MungATV_Cover">
+    </type>
+    <type name="MungATV_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -449,8 +449,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CZLandrover_Cover">
+    </type>
+    <type name="CZLandrover_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -460,8 +460,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusGolf_Cover">
+    </type>
+    <type name="CarsPlusGolf_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -471,8 +471,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusNiva_Cover">
+    </type>
+    <type name="CarsPlusNiva_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -482,8 +482,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusSkoda_Cover">
+    </type>
+    <type name="CarsPlusSkoda_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -493,8 +493,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusVolga_Cover">
+    </type>
+    <type name="CarsPlusVolga_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -504,8 +504,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="BlackoutsBaja_Cover">
+    </type>
+    <type name="BlackoutsBaja_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -515,8 +515,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LandroverPickup_Cover">
+    </type>
+    <type name="LandroverPickup_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -526,8 +526,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CougarMRAP_Cover">
+    </type>
+    <type name="CougarMRAP_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -537,8 +537,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Dingo_Cover">
+    </type>
+    <type name="Dingo_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -548,8 +548,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagGAZ69_Cover">
+    </type>
+    <type name="RagGAZ69_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -559,8 +559,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="UAZ469H4_Cover">
+    </type>
+    <type name="UAZ469H4_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -570,8 +570,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkTyphoon_Cover">
+    </type>
+    <type name="CrSkTyphoon_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -581,8 +581,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagHummerRefresh_Cover">
+    </type>
+    <type name="RagHummerRefresh_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -592,8 +592,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187GAZ66_Cover">
+    </type>
+    <type name="CJ187GAZ66_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -603,8 +603,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187Hummer_Cover">
+    </type>
+    <type name="CJ187Hummer_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -614,8 +614,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187UAZ_Cover">
+    </type>
+    <type name="CJ187UAZ_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -625,8 +625,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkVAZ2107_Cover">
+    </type>
+    <type name="CrSkVAZ2107_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -636,8 +636,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Chevy_C10_Cover">
+    </type>
+    <type name="Chevy_C10_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -647,8 +647,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="dbo_tractor_Cover">
+    </type>
+    <type name="dbo_tractor_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -658,8 +658,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Glowler_ITV_Cover">
+    </type>
+    <type name="Glowler_ITV_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -669,8 +669,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Jeep_Wnagler_Cover">
+    </type>
+    <type name="Jeep_Wnagler_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -680,8 +680,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LAPV_Cover">
+    </type>
+    <type name="LAPV_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -691,8 +691,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagLandrover110_Cover">
+    </type>
+    <type name="RagLandrover110_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -702,8 +702,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="BPGaz_Cover">
+    </type>
+    <type name="BPGaz_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -713,8 +713,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-		<type name="Cherokee1984_Cover">
+    </type>
+    <type name="Cherokee1984_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -724,8 +724,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsURAL_Cover">
+    </type>
+    <type name="DmnsURAL_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -735,8 +735,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsDatsun_Cover">
+    </type>
+    <type name="DmnsDatsun_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -746,8 +746,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsHUMVEE_Cover">
+    </type>
+    <type name="DmnsHUMVEE_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -757,8 +757,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsKAMAZ_Cover">
+    </type>
+    <type name="DmnsKAMAZ_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -768,8 +768,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsMRAP_Cover">
+    </type>
+    <type name="DmnsMRAP_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -779,8 +779,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsMTVR_Cover">
+    </type>
+    <type name="DmnsMTVR_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -790,8 +790,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LAMV_Cover">
+    </type>
+    <type name="LAMV_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -801,8 +801,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="UAZ3303_Cover">
+    </type>
+    <type name="UAZ3303_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -812,8 +812,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="PitbullVX_Cover">
+    </type>
+    <type name="PitbullVX_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -823,8 +823,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="NehrTrailBrozer_Cover">
+    </type>
+    <type name="NehrTrailBrozer_Cover">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -834,10 +834,21 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	
-<!-- Winter variants -->
-	
+    </type>
+    <type name="WickedRV_Cover">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+
+    <!-- Winter variants -->
+
     <type name="Lada4x4_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -849,7 +860,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Volga_Cover_Winter">
+    <type name="Volga_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -926,7 +937,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickup_Cover_Winter">
+    <type name="LadaPickup_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -937,7 +948,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickupFire_Cover_Winter">
+    <type name="LadaPickupFire_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -948,7 +959,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="BlackoutsCorvette_Cover_Winter">
+    <type name="BlackoutsCorvette_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -959,7 +970,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Kamaz_Cover_Winter">
+    <type name="Kamaz_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -970,7 +981,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageBTRHT_Cover_Winter">
+    <type name="SavageBTRHT_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -981,7 +992,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageLiftedTahoe_Cover_Winter">
+    <type name="SavageLiftedTahoe_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -992,7 +1003,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Skoda1203_Cover_Winter">
+    <type name="Skoda1203_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1003,7 +1014,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="HMVVEEErag_Cover_Winter">
+    <type name="HMVVEEErag_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1014,7 +1025,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="UAZ469kirman_Cover_Winter">
+    <type name="UAZ469kirman_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1025,7 +1036,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="MercedesG65_Cover_Winter">
+    <type name="MercedesG65_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1145,506 +1156,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="VeeDub_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>	
-	<type name="ZeroyJeepWillys_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="SkyJeep_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Kopter_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Bruiser_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="SavageSherpa_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CrSkZil131_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="TrolleyEKart_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="RagMTVR_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="MungATV_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CZLandrover_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CarsPlusGolf_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CarsPlusNiva_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CarsPlusSkoda_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CarsPlusVolga_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="BlackoutsBaja_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="LandroverPickup_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CougarMRAP_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Dingo_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="RagGAZ69_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="UAZ469H4_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CrSkTyphoon_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="RagHummerRefresh_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CJ187GAZ66_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CJ187Hummer_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CJ187UAZ_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="CrSkVAZ2107_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-		<type name="Chevy_C10_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="dbo_tractor_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Glowler_ITV_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Jeep_Wnagler_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="LAPV_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="RagLandrover110_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="BPGaz_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="Cherokee1984_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsURAL_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsDatsun_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsHUMVEE_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsKAMAZ_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsMRAP_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="DmnsMTVR_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="LAMV_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="UAZ3303_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="PitbullVX_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	<type name="NehrTrailBrozer_Cover_Winter">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="containers"/>
-	</type>
-	
-<!-- Tarp Covers -->
-
-   <type name="Lada4x4_Cover_Civil">
+    </type>
+    <type name="VeeDub_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1655,7 +1168,516 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Volga_Cover_Civil">
+    <type name="ZeroyJeepWillys_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="SkyJeep_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Kopter_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Bruiser_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="SavageSherpa_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CrSkZil131_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="TrolleyEKart_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="RagMTVR_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="MungATV_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CZLandrover_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CarsPlusGolf_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CarsPlusNiva_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CarsPlusSkoda_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CarsPlusVolga_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="BlackoutsBaja_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="LandroverPickup_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CougarMRAP_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Dingo_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="RagGAZ69_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="UAZ469H4_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CrSkTyphoon_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="RagHummerRefresh_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CJ187GAZ66_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CJ187Hummer_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CJ187UAZ_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="CrSkVAZ2107_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Chevy_C10_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="dbo_tractor_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Glowler_ITV_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Jeep_Wnagler_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="LAPV_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="RagLandrover110_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="BPGaz_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Cherokee1984_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsURAL_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsDatsun_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsHUMVEE_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsKAMAZ_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsMRAP_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="DmnsMTVR_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="LAMV_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="UAZ3303_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="PitbullVX_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="NehrTrailBrozer_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="WickedRV_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+
+    <!-- Tarp Covers -->
+
+    <type name="Lada4x4_Cover_Civil">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="Volga_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1732,7 +1754,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickup_Cover_Civil">
+    <type name="LadaPickup_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1743,7 +1765,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="LadaPickupFire_Cover_Civil">
+    <type name="LadaPickupFire_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1754,7 +1776,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="BlackoutsCorvette_Cover_Civil">
+    <type name="BlackoutsCorvette_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1765,7 +1787,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Kamaz_Cover_Civil">
+    <type name="Kamaz_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1776,7 +1798,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageBTRHT_Cover_Civil">
+    <type name="SavageBTRHT_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1787,7 +1809,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="SavageLiftedTahoe_Cover_Civil">
+    <type name="SavageLiftedTahoe_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1798,7 +1820,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="Skoda1203_Cover_Civil">
+    <type name="Skoda1203_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1809,7 +1831,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="HMVVEEErag_Cover_Civil">
+    <type name="HMVVEEErag_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1820,7 +1842,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="UAZ469kirman_Cover_Civil">
+    <type name="UAZ469kirman_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1831,7 +1853,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
     </type>
-	<type name="MercedesG65_Cover_Civil">
+    <type name="MercedesG65_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1951,8 +1973,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="VeeDub_Cover_Civil">
+    </type>
+    <type name="VeeDub_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1962,8 +1984,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>	
-	<type name="ZeroyJeepWillys_Cover_Civil">
+    </type>
+    <type name="ZeroyJeepWillys_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1973,8 +1995,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="SkyJeep_Cover_Civil">
+    </type>
+    <type name="SkyJeep_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1984,8 +2006,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Kopter_Cover_Civil">
+    </type>
+    <type name="Kopter_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -1995,8 +2017,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Bruiser_Cover_Civil">
+    </type>
+    <type name="Bruiser_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2006,8 +2028,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="SavageSherpa_Cover_Civil">
+    </type>
+    <type name="SavageSherpa_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2017,8 +2039,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkZil131_Cover_Civil">
+    </type>
+    <type name="CrSkZil131_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2028,8 +2050,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="TrolleyEKart_Cover_Civil">
+    </type>
+    <type name="TrolleyEKart_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2039,8 +2061,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagMTVR_Cover_Civil">
+    </type>
+    <type name="RagMTVR_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2050,8 +2072,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="MungATV_Cover_Civil">
+    </type>
+    <type name="MungATV_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2061,8 +2083,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CZLandrover_Cover_Civil">
+    </type>
+    <type name="CZLandrover_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2072,8 +2094,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusGolf_Cover_Civil">
+    </type>
+    <type name="CarsPlusGolf_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2083,8 +2105,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusNiva_Cover_Civil">
+    </type>
+    <type name="CarsPlusNiva_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2094,8 +2116,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusSkoda_Cover_Civil">
+    </type>
+    <type name="CarsPlusSkoda_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2105,8 +2127,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CarsPlusVolga_Cover_Civil">
+    </type>
+    <type name="CarsPlusVolga_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2116,8 +2138,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="BlackoutsBaja_Cover_Civil">
+    </type>
+    <type name="BlackoutsBaja_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2127,8 +2149,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LandroverPickup_Cover_Civil">
+    </type>
+    <type name="LandroverPickup_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2138,8 +2160,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CougarMRAP_Cover_Civil">
+    </type>
+    <type name="CougarMRAP_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2149,8 +2171,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Dingo_Cover_Civil">
+    </type>
+    <type name="Dingo_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2160,8 +2182,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagGAZ69_Cover_Civil">
+    </type>
+    <type name="RagGAZ69_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2171,8 +2193,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="UAZ469H4_Cover_Civil">
+    </type>
+    <type name="UAZ469H4_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2182,8 +2204,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkTyphoon_Cover_Civil">
+    </type>
+    <type name="CrSkTyphoon_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2193,8 +2215,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagHummerRefresh_Cover_Civil">
+    </type>
+    <type name="RagHummerRefresh_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2204,8 +2226,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187GAZ66_Cover_Civil">
+    </type>
+    <type name="CJ187GAZ66_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2215,8 +2237,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187Hummer_Cover_Civil">
+    </type>
+    <type name="CJ187Hummer_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2226,8 +2248,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CJ187UAZ_Cover_Civil">
+    </type>
+    <type name="CJ187UAZ_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2237,8 +2259,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="CrSkVAZ2107_Cover_Civil">
+    </type>
+    <type name="CrSkVAZ2107_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2248,8 +2270,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Chevy_C10_Cover_Civil">
+    </type>
+    <type name="Chevy_C10_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2259,8 +2281,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="dbo_tractor_Cover_Civil">
+    </type>
+    <type name="dbo_tractor_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2270,8 +2292,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Glowler_ITV_Cover_Civil">
+    </type>
+    <type name="Glowler_ITV_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2281,8 +2303,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Jeep_Wnagler_Cover_Civil">
+    </type>
+    <type name="Jeep_Wnagler_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2292,8 +2314,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LAPV_Cover_Civil">
+    </type>
+    <type name="LAPV_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2303,8 +2325,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="RagLandrover110_Cover_Civil">
+    </type>
+    <type name="RagLandrover110_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2314,8 +2336,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="BPGaz_Cover_Civil">
+    </type>
+    <type name="BPGaz_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2325,8 +2347,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="Cherokee1984_Cover_Civil">
+    </type>
+    <type name="Cherokee1984_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2336,8 +2358,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsURAL_Cover_Civil">
+    </type>
+    <type name="DmnsURAL_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2347,8 +2369,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsDatsun_Cover_Civil">
+    </type>
+    <type name="DmnsDatsun_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2358,8 +2380,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsHUMVEE_Cover_Civil">
+    </type>
+    <type name="DmnsHUMVEE_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2369,8 +2391,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsKAMAZ_Cover_Civil">
+    </type>
+    <type name="DmnsKAMAZ_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2380,8 +2402,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsMRAP_Cover_Civil">
+    </type>
+    <type name="DmnsMRAP_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2391,8 +2413,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="DmnsMTVR_Cover_Civil">
+    </type>
+    <type name="DmnsMTVR_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2402,8 +2424,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="LAMV_Cover_Civil">
+    </type>
+    <type name="LAMV_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2413,8 +2435,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="UAZ3303_Cover_Civil">
+    </type>
+    <type name="UAZ3303_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2424,8 +2446,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="PitbullVX_Cover_Civil">
+    </type>
+    <type name="PitbullVX_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2435,8 +2457,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
-	<type name="NehrTrailBrozer_Cover_Civil">
+    </type>
+    <type name="NehrTrailBrozer_Cover_Civil">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2446,5 +2468,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-	</type>
+    </type>
+    <type name="WickedRV_Cover_Civil">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
 </types>
