@@ -15,7 +15,7 @@
   "CanCraftExpansionBasebuilding": 1,
   "DestroyFlagOnDismantle": 1,
   "DismantleFlagRequireTools": 1,
-  "DismantleOutsideTerritory": 0,
+  "DismantleOutsideTerritory": 1,
   "DismantleInsideTerritory": 0,
   "DismantleAnywhere": 0,
   "CanAttachCodelock": 0,
