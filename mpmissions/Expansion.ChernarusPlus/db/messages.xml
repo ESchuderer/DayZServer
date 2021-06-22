@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
+    <message>
+        <deadline>180</deadline>
+        <shutdown>1</shutdown>
+        <onConnect>1</onConnect>
+        <countdown>1</countdown>
+        <text>#name will restart in #tmin minutes. (Server restarts every 3 hours!)</text>
+    </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
