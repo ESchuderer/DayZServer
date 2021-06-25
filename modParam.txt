@@ -31,6 +31,4 @@
 @Heroes And Bandits;
 @Heroes And Bandits PVEZ Add On;
 
-@PvZmoD_CustomisableZombies;
-
 @dbo_surfaces;

@@ -1,0 +1,137 @@
+{
+  "OnTheFly": 1,
+  "OnTheFly_UnFlip": 0,
+  "Log": 0,
+  "VehicleConfig": [
+    {
+      "Name": "DEFAULT",
+      "VerticalAdjustment": -1.0,
+      "Clearance": 2.0
+    },
+    {
+      "Name": "HELI",
+      "VerticalAdjustment": -1.0,
+      "Clearance": 4.599999904632568
+    },
+    {
+      "Name": "PLANE",
+      "VerticalAdjustment": -1.0,
+      "Clearance": 4.5
+    },
+    {
+      "Name": "CivilianSedan",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "CivilianSedan_Black",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "CivilianSedan_Wine",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "Hatchback_02",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "Hatchback_02_Black",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "Hatchback_02_Blue",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5800000429153443
+    },
+    {
+      "Name": "OffroadHatchback",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.8300000429153443
+    },
+    {
+      "Name": "OffroadHatchback_Blue",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.8300000429153443
+    },
+    {
+      "Name": "OffroadHatchback_White",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.8300000429153443
+    },
+    {
+      "Name": "Sedan_02",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5
+    },
+    {
+      "Name": "Sedan_02_Grey",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5
+    },
+    {
+      "Name": "Sedan_02_Red",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 1.5
+    },
+    {
+      "Name": "ExpansionC130J",
+      "VerticalAdjustment": 5.699999809265137,
+      "Clearance": 11.0
+    },
+    {
+      "Name": "ExpansionAn2",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 4.5
+    },
+    {
+      "Name": "ExpansionGyrocopter",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 2.200000047683716
+    },
+    {
+      "Name": "ExpansionMh6",
+      "VerticalAdjustment": 0.0,
+      "Clearance": 3.0999999046325685
+    },
+    {
+      "Name": "ExpansionMerlin",
+      "VerticalAdjustment": 3.809999942779541,
+      "Clearance": 7.300000190734863
+    },
+    {
+      "Name": "ExpansionUh1h",
+      "VerticalAdjustment": 3.0,
+      "Clearance": 4.599999904632568
+    },
+    {
+      "Name": "ExpansionUAZ",
+      "VerticalAdjustment": 1.7000000476837159,
+      "Clearance": 2.0
+    },
+    {
+      "Name": "ExpansionUAZRoofless",
+      "VerticalAdjustment": 1.7000000476837159,
+      "Clearance": 2.0
+    },
+    {
+      "Name": "ExpansionUAZCargo",
+      "VerticalAdjustment": 1.7000000476837159,
+      "Clearance": 2.0
+    },
+    {
+      "Name": "ExpansionUAZCargoRoofless",
+      "VerticalAdjustment": 1.7000000476837159,
+      "Clearance": 2.0
+    },
+    {
+      "Name": "ExpansionVodnik",
+      "VerticalAdjustment": 2.200000047683716,
+      "Clearance": 2.25
+    }
+  ]
+}

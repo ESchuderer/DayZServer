@@ -1,171 +1,171 @@
 {
-    "ConfigVersion": "7",
-    "UseSimple": 0,
-    "KillFeed": 1,
-    "SucideFeed": 0,
-    "BanditCanRemoveMask": 0,
-    "BanditCanRemoveArmBand": 1,
-    "BanditMasks": [
-        "BandanaMask_RedPattern",
-        "BandanaMask_BlackPattern",
-        "BandanaMask_CamoPattern",
-        "BandanaMask_GreenPattern",
-        "BandanaMask_PolkaPattern",
-        "Bandana_Blue",
-        "Bandana_Pink",
-        "Bandana_Yellow"
-    ],
-    "BanditArmBands": [],
-    "HeroCanRemoveMask": 1,
-    "HeroCanRemoveArmBand": 1,
-    "HeroMasks": [],
-    "HeroArmBands": [],
-    "HeroOnlyItems": [],
-    "BanditOnlyItems": [],
-    "Expansion_EnableIconOnPlayerTag": 1,
-    "Levels": [
-        {
-            "Name": "Saint",
-            "Humanity": 50001.0
-        },
-        {
-            "Name": "Paladin",
-            "Humanity": 20001.0
-        },
-        {
-            "Name": "Peacekeeper",
-            "Humanity": 12001.0
-        },
-        {
-            "Name": "Sentinel",
-            "Humanity": 4001.0
-        },
-        {
-            "Name": "Guardian",
-            "Humanity": 1001.0
-        },
-        {
-            "Name": "Survivor",
-            "Humanity": 0.0
-        },
-        {
-            "Name": "Outlaw",
-            "Humanity": -1001.0
-        },
-        {
-            "Name": "Thug",
-            "Humanity": -4001.0
-        },
-        {
-            "Name": "Highwayman",
-            "Humanity": -12001.0
-        },
-        {
-            "Name": "Plunderer",
-            "Humanity": -20001.0
-        },
-        {
-            "Name": "Marauder",
-            "Humanity": -50001.0
-        }
-    ],
-    "Actions": [
-        {
-            "Name": "ZombieKill",
-            "Humanity": 5.0
-        },
-        {
-            "Name": "heroSucide",
-            "Humanity": -100.0
-        },
-        {
-            "Name": "banditSucide",
-            "Humanity": 100.0
-        },
-        {
-            "Name": "heroVshero",
-            "Humanity": -150.0
-        },
-        {
-            "Name": "heroVsbambi",
-            "Humanity": -300.0
-        },
-        {
-            "Name": "heroVsbandit",
-            "Humanity": 250.0
-        },
-        {
-            "Name": "banditVshero",
-            "Humanity": -250.0
-        },
-        {
-            "Name": "banditVsbambi",
-            "Humanity": -125.0
-        },
-        {
-            "Name": "banditVsbandit",
-            "Humanity": -150.0
-        },
-        {
-            "Name": "bambiVshero",
-            "Humanity": -250.0
-        },
-        {
-            "Name": "bambiVsbambi",
-            "Humanity": -100.0
-        },
-        {
-            "Name": "bambiVsbandit",
-            "Humanity": 300.0
-        },
-        {
-            "Name": "CombinationLockRaid",
-            "Humanity": -150.0
-        },
-        {
-            "Name": "FencePartRaid",
-            "Humanity": -50.0
-        },
-        {
-            "Name": "WatchtowerPartRaid",
-            "Humanity": -30.0
-        },
-        {
-            "Name": "MedicBandagePlayer",
-            "Humanity": 50.0
-        },
-        {
-            "Name": "MedicGiveBlood",
-            "Humanity": 25.0
-        },
-        {
-            "Name": "MedicGiveSaline",
-            "Humanity": 25.0
-        },
-        {
-            "Name": "MedicGiveCPR",
-            "Humanity": 75.0
-        },
-        {
-            "Name": "MedicFeedTetracycline",
-            "Humanity": 15.0
-        },
-        {
-            "Name": "MedicFeedPainkiller",
-            "Humanity": 15.0
-        },
-        {
-            "Name": "MedicFeedCharcoal",
-            "Humanity": 15.0
-        },
-        {
-            "Name": "MedicFeedVitamin",
-            "Humanity": 10.0
-        },
-        {
-            "Name": "MedicSplintPlayer",
-            "Humanity": 100.0
-        }
-    ],
-    "Zones": []
+  "ConfigVersion": "7",
+  "UseSimple": 0,
+  "KillFeed": 1,
+  "SucideFeed": 0,
+  "BanditCanRemoveMask": 0,
+  "BanditCanRemoveArmBand": 1,
+  "BanditMasks": [
+    "BandanaMask_RedPattern",
+    "BandanaMask_BlackPattern",
+    "BandanaMask_CamoPattern",
+    "BandanaMask_GreenPattern",
+    "BandanaMask_PolkaPattern",
+    "Bandana_Blue",
+    "Bandana_Pink",
+    "Bandana_Yellow"
+  ],
+  "BanditArmBands": [],
+  "HeroCanRemoveMask": 1,
+  "HeroCanRemoveArmBand": 1,
+  "HeroMasks": [],
+  "HeroArmBands": [],
+  "HeroOnlyItems": [],
+  "BanditOnlyItems": [],
+  "Expansion_EnableIconOnPlayerTag": 1,
+  "Levels": [
+    {
+      "Name": "Saint",
+      "Humanity": 50001.0
+    },
+    {
+      "Name": "Paladin",
+      "Humanity": 20001.0
+    },
+    {
+      "Name": "Peacekeeper",
+      "Humanity": 12001.0
+    },
+    {
+      "Name": "Sentinel",
+      "Humanity": 4001.0
+    },
+    {
+      "Name": "Guardian",
+      "Humanity": 1001.0
+    },
+    {
+      "Name": "Survivor",
+      "Humanity": 0.0
+    },
+    {
+      "Name": "Outlaw",
+      "Humanity": -1001.0
+    },
+    {
+      "Name": "Thug",
+      "Humanity": -4001.0
+    },
+    {
+      "Name": "Highwayman",
+      "Humanity": -12001.0
+    },
+    {
+      "Name": "Plunderer",
+      "Humanity": -20001.0
+    },
+    {
+      "Name": "Marauder",
+      "Humanity": -50001.0
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "ZombieKill",
+      "Humanity": 5.0
+    },
+    {
+      "Name": "heroSucide",
+      "Humanity": -100.0
+    },
+    {
+      "Name": "banditSucide",
+      "Humanity": 100.0
+    },
+    {
+      "Name": "heroVshero",
+      "Humanity": -150.0
+    },
+    {
+      "Name": "heroVsbambi",
+      "Humanity": -300.0
+    },
+    {
+      "Name": "heroVsbandit",
+      "Humanity": 250.0
+    },
+    {
+      "Name": "banditVshero",
+      "Humanity": -250.0
+    },
+    {
+      "Name": "banditVsbambi",
+      "Humanity": -125.0
+    },
+    {
+      "Name": "banditVsbandit",
+      "Humanity": -150.0
+    },
+    {
+      "Name": "bambiVshero",
+      "Humanity": -250.0
+    },
+    {
+      "Name": "bambiVsbambi",
+      "Humanity": -100.0
+    },
+    {
+      "Name": "bambiVsbandit",
+      "Humanity": 300.0
+    },
+    {
+      "Name": "CombinationLockRaid",
+      "Humanity": -150.0
+    },
+    {
+      "Name": "FencePartRaid",
+      "Humanity": -50.0
+    },
+    {
+      "Name": "WatchtowerPartRaid",
+      "Humanity": -30.0
+    },
+    {
+      "Name": "MedicBandagePlayer",
+      "Humanity": 50.0
+    },
+    {
+      "Name": "MedicGiveBlood",
+      "Humanity": 25.0
+    },
+    {
+      "Name": "MedicGiveSaline",
+      "Humanity": 25.0
+    },
+    {
+      "Name": "MedicGiveCPR",
+      "Humanity": 75.0
+    },
+    {
+      "Name": "MedicFeedTetracycline",
+      "Humanity": 15.0
+    },
+    {
+      "Name": "MedicFeedPainkiller",
+      "Humanity": 15.0
+    },
+    {
+      "Name": "MedicFeedCharcoal",
+      "Humanity": 15.0
+    },
+    {
+      "Name": "MedicFeedVitamin",
+      "Humanity": 10.0
+    },
+    {
+      "Name": "MedicSplintPlayer",
+      "Humanity": 100.0
+    }
+  ],
+  "Zones": []
 }
