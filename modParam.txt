@@ -1,1 +1,36 @@
-@CF;@DayZ-Expansion-Core;@DayZ-Expansion;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Licensed;@Unofficial Expansion Fixes;@Better Inspect;@BulletStacksPlusPlusRedux;@CarCover;@CarCoverExpansionCompat;@RaG_Landrover_Defender_110;@CZLStationRefueling;@Community-Online-Tools;@NoCollisionDamageIfEngineOff;@FixVehiclePositions;@Snap Heli To HeliPad;@FlipTransport;@WornRepair;@PVEZ;@PVEZExpansionPlugin;@Heroes And Bandits;dbo_surfaces
+@CF;
+@DayZ-Expansion;
+@DayZ-Expansion-Core;
+@DayZ-Expansion-Licensed;
+@DayZ-Expansion-Vehicles;
+@Community-Online-Tools;
+@Unofficial Expansion Fixes;
+
+@Better Inspect;
+@BulletStacksPlusPlusRedux;
+
+@No Glove Or Shoe Damage;
+@WornRepair;
+
+@FixVehiclePositions;
+@NoCollisionDamageIfEngineOff;
+@Snap Heli To HeliPad;
+@FlipTransport;
+
+@CarCover;
+@CarCoverExpansionCompat;
+@CZLStationRefueling;
+
+@RaG_Landrover_Defender_110;
+
+@Dogtags;
+
+@ExpansionBookExpanded;
+@PVEZ;
+@PVEZExpansionPlugin;
+@Heroes And Bandits;
+@Heroes And Bandits PVEZ Add On;
+
+@PvZmoD_CustomisableZombies;
+
+@dbo_surfaces;
