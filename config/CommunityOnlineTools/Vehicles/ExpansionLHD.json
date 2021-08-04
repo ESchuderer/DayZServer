@@ -1,11 +1,11 @@
 {
-  "VehicleName": "ExpansionLHD",
-  "DisplayName": "",
-  "Parts": [
-    "CarRadiator",
-    "GlowPlug",
-    "TruckBattery",
-    "HeadlightH7",
-    "HeadlightH7"
-  ]
+    "VehicleName": "ExpansionLHD",
+    "DisplayName": "",
+    "Parts": [
+        "CarRadiator",
+        "GlowPlug",
+        "TruckBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
 }

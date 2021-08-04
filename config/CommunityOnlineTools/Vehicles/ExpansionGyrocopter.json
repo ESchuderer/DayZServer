@@ -1,9 +1,9 @@
 {
-  "VehicleName": "ExpansionGyrocopter",
-  "DisplayName": "",
-  "Parts": [
-    "ExpansionHelicopterBattery",
-    "SparkPlug",
-    "HeadlightH7"
-  ]
+    "VehicleName": "ExpansionGyrocopter",
+    "DisplayName": "",
+    "Parts": [
+        "ExpansionHelicopterBattery",
+        "SparkPlug",
+        "HeadlightH7"
+    ]
 }

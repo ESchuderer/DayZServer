@@ -1,24 +1,24 @@
 {
-  "VehicleSync": 1,
-  "VehicleRequireKeyToStart": 0,
-  "VehicleRequireAllDoors": 1,
-  "VehicleLockedAllowInventoryAccess": 0,
-  "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
-  "MasterKeyPairingMode": 2,
-  "MasterKeyUses": 2,
-  "CanPickLock": 0,
-  "PickLockTools": [
-    "Lockpick"
-  ],
-  "PickLockChancePercent": 40.0,
-  "PickLockTimeSeconds": 120,
-  "PickLockToolDamagePercent": 10.0,
-  "EnableWindAerodynamics": 0,
-  "EnableTailRotorDamage": 0,
-  "PlayerAttachment": 1,
-  "Towing": 1,
-  "EnableHelicopterExplosions": 0,
-  "DisableVehicleDamage": 0,
-  "VehicleCrewDamageMultiplier": 1.0,
-  "VehicleSpeedDamageMultiplier": 0.0
+    "VehicleSync": 1,
+    "VehicleRequireKeyToStart": 0,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "MasterKeyPairingMode": 2,
+    "MasterKeyUses": 2,
+    "CanPickLock": 0,
+    "PickLockTools": [
+        "Lockpick"
+    ],
+    "PickLockChancePercent": 40.0,
+    "PickLockTimeSeconds": 120,
+    "PickLockToolDamagePercent": 10.0,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 0,
+    "PlayerAttachment": 1,
+    "Towing": 1,
+    "EnableHelicopterExplosions": 0,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 1.0,
+    "VehicleSpeedDamageMultiplier": 0.0
 }
