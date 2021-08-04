@@ -1,4 +1,5 @@
 @CF;
+@Dabs Framework;
 @DayZ-Expansion;
 @DayZ-Expansion-Core;
 @DayZ-Expansion-Licensed;
