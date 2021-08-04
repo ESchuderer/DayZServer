@@ -1,20 +1,20 @@
 {
-    "PlayerID": "76561198259090879",
-    "GUID": "",
-    "Stats": [
-        {
-            "Name": "ZombieKill",
-            "Stat": 179
-        },
-        {
-            "Name": "HuntAnimal_GallusGallusDomesticusF_White",
-            "Stat": 1
-        }
-    ],
-    "Affinities": [
-        {
-            "Name": "hero",
-            "Points": 895.0
-        }
-    ]
+  "PlayerID": "76561198259090879",
+  "GUID": "",
+  "Stats": [
+    {
+      "Name": "ZombieKill",
+      "Stat": 179
+    },
+    {
+      "Name": "HuntAnimal_GallusGallusDomesticusF_White",
+      "Stat": 1
+    }
+  ],
+  "Affinities": [
+    {
+      "Name": "hero",
+      "Points": 895.0
+    }
+  ]
 }

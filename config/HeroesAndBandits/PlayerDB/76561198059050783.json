@@ -1,16 +1,16 @@
 {
-    "PlayerID": "76561198059050783",
-    "GUID": "",
-    "Stats": [
-        {
-            "Name": "ZombieKill",
-            "Stat": 88
-        }
-    ],
-    "Affinities": [
-        {
-            "Name": "hero",
-            "Points": 440.0
-        }
-    ]
+  "PlayerID": "76561198059050783",
+  "GUID": "",
+  "Stats": [
+    {
+      "Name": "ZombieKill",
+      "Stat": 88
+    }
+  ],
+  "Affinities": [
+    {
+      "Name": "hero",
+      "Points": 440.0
+    }
+  ]
 }

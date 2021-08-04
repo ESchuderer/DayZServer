@@ -1,24 +1,24 @@
 {
-    "PlayerID": "76561197968539254",
-    "GUID": "",
-    "Stats": [
-        {
-            "Name": "ZombieKill",
-            "Stat": 177
-        },
-        {
-            "Name": "bambiSucide",
-            "Stat": 1
-        },
-        {
-            "Name": "HuntAnimal_OvisAriesF",
-            "Stat": 1
-        }
-    ],
-    "Affinities": [
-        {
-            "Name": "hero",
-            "Points": 885.0
-        }
-    ]
+  "PlayerID": "76561197968539254",
+  "GUID": "",
+  "Stats": [
+    {
+      "Name": "ZombieKill",
+      "Stat": 177
+    },
+    {
+      "Name": "bambiSucide",
+      "Stat": 1
+    },
+    {
+      "Name": "HuntAnimal_OvisAriesF",
+      "Stat": 1
+    }
+  ],
+  "Affinities": [
+    {
+      "Name": "hero",
+      "Points": 885.0
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-    "VehicleName": "ExpansionZodiacBoat",
-    "DisplayName": "",
-    "Parts": [
-        "CarRadiator",
-        "GlowPlug",
-        "TruckBattery"
-    ]
+  "VehicleName": "ExpansionZodiacBoat",
+  "DisplayName": "",
+  "Parts": [
+    "CarRadiator",
+    "GlowPlug",
+    "TruckBattery"
+  ]
 }

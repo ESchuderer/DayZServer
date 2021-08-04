@@ -1,8 +1,8 @@
 {
   "PlayerLocationNotifier": 1,
-  "EnableGlobalChat": 0,
-  "EnablePartyChat": 0,
-  "EnableTransportChat": 0,
+  "EnableGlobalChat": 1,
+  "EnablePartyChat": 1,
+  "EnableTransportChat": 1,
   "DisableShootToUnlock": 0,
   "EnableGravecross": 1,
   "GravecrossDeleteBody": 1,

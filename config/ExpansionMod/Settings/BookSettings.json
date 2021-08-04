@@ -7,15 +7,16 @@
   "EnableTerritoryTab": 1,
   "ShowServerSettings": 1,
   "ServerInfo": {
-    "ServerButtons": [],
+    "ServerButtons": [
+    ],
     "ServerSections": [
       {
         "HasHeading": 1,
         "HeadText": "WELCOME",
-        "BodyText": "<p>...to [ac] DayZ</p>"
+        "BodyText": "<p>...to DayZ</p>"
       }
     ],
-    "ServerName": "[ac] DayZ"
+    "ServerName": "DayZ"
   },
   "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
   "RuleCategories": [
